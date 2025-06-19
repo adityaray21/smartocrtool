@@ -1,0 +1,4 @@
+Gradio
+Google-cloud-vision
+PyPDF2
+Pillow
