@@ -1,4 +1,6 @@
-Gradio
-Google-cloud-vision
-PyPDF2
+gradio==4.26.0
+google-cloud-vision==3.10.2
+pdf2image
+pytesseract
 Pillow
+

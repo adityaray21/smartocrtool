@@ -1,5 +1,7 @@
 # Ignore Python cache and logs
+smartocr.json
 __pycache__/
+
 *.pyc
 *.log
 
