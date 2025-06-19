@@ -1,0 +1,14 @@
+# Ignore Python cache and logs
+__pycache__/
+*.pyc
+*.log
+
+# Ignore virtual environment folders
+env/
+venv/
+
+# Ignore credentials
+*.json
+
+# macOS system files
+.DS_Store
